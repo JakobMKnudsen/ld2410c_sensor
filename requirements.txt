@@ -1,3 +1,5 @@
 pyserial
 PyQt5
 aio-ld2410
+pyqtgraph
+numpy
